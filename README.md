@@ -13,7 +13,7 @@
 - 🎓 AI student @ FPT University (Full scholarship).
 - 🌱 Learning: **Golang, Backend, AI, System Design**.
 - 🤝 Seeking Web/AI open-source collaboration.
-- ⚡ Fun fact: *"I'm a fan of Elden Ring"*
+- ⚡ Fun fact: _"I'm a fan of Elden Ring"_
 
 ---
 
@@ -73,14 +73,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nguyentrinhquy1411&theme=tokyonight&no-frame=true&margin-w=4" />
-</p>
-
----
-
-## 🐍 Snake Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nguyentrinhquy1411/nguyentrinhquy1411/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
