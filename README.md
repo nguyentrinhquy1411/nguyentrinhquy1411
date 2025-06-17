@@ -13,14 +13,13 @@
 - 🎓 AI student @ FPT University (Full scholarship).
 - 🌱 Learning: **Golang, Backend, AI, System Design**.
 - 🤝 Seeking Web/AI open-source collaboration.
-- ⚡ Fun fact: *"Im a fan of Elden Ring"*
+- ⚡ Fun fact: *"I'm a fan of Elden Ring"*
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="center">
-
   <!-- Languages -->
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -57,7 +56,6 @@
   <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/-Logstash-000000?style=for-the-badge&logo=logstash&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kibana-E8488B?style=for-the-badge&logo=kibana&logoColor=white" />
-
 </p>
 
 ---
@@ -75,6 +73,14 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nguyentrinhquy1411&theme=tokyonight&no-frame=true&margin-w=4" />
+</p>
+
+---
+
+## 🐍 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nguyentrinhquy1411/nguyentrinhquy1411/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
