@@ -79,14 +79,6 @@
 
 ---
 
-## 🐍 Snake Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nguyentrinhquy1411/nguyentrinhquy1411/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🔗 Contact
 
 <p align="center">
